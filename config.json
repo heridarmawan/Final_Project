@@ -1,0 +1,13 @@
+{
+    "postgresql":{
+        "host":"172.18.139.1",
+        "db":"postgres",
+        "user":"postgres",
+        "pwd":"admin",
+        "port":5432
+    },
+
+    "spark":{
+        "ip":"spark://DESKTOP-FFP1V5B.localdomain:7077"
+    }
+}
